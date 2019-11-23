@@ -1,1 +1,9 @@
-<JSD014_Akatsuki_1943_MidBack.model><exporter>1.6</exporter><parent>PnFMods/SEA_KRE_Verniy-F/JSD107_Akatsuki/ship/JSD014_Akatsuki_1943_MidBack_lod1</parent><extent>7.0000</extent><materialNames /><castsShadow>true</castsShadow><nodefullVisual>PnFMods/SEA_KRE_Verniy-F/JSD107_Akatsuki/ship/JSD014_Akatsuki_1943_MidBack</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></JSD014_Akatsuki_1943_MidBack.model>
+<JSD014_Akatsuki_1943_MidBack.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_KRE_Verniy-F/JSD107_Akatsuki/ship/JSD014_Akatsuki_1943_MidBack_lod1	</parent>
+	<extent>	7.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_KRE_Verniy-F/JSD107_Akatsuki/ship/JSD014_Akatsuki_1943_MidBack	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JSD014_Akatsuki_1943_MidBack.model>

@@ -1,0 +1,14 @@
+<JSD014_Akatsuki_1943_wire.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_KRE_Verniy-F/JSD107_Akatsuki/ship/JSD014_Akatsuki_1943_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_KRE_Verniy-F/JSD107_Akatsuki/ship/JSD014_Akatsuki_1943_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_KRE_Verniy-F/JSD107_Akatsuki/ship/JSD014_Akatsuki_1943_n.dds	</Texture>
+	</property>
+</JSD014_Akatsuki_1943_wire.mfm>

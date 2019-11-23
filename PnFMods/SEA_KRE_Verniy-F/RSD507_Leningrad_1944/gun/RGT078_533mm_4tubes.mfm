@@ -1,0 +1,17 @@
+<RGT078_533mm_4tubes.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_KRE_Verniy-F/RSD507_Leningrad_1944/gun/RGT078_533mm_4tubes_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_KRE_Verniy-F/RSD507_Leningrad_1944/gun/RGT078_533mm_4tubes_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_KRE_Verniy-F/RSD507_Leningrad_1944/gun/RGT078_533mm_4tubes_mg.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_KRE_Verniy-F/RSD507_Leningrad_1944/gun/default_ao.dds	</Texture>
+	</property>
+</RGT078_533mm_4tubes.mfm>

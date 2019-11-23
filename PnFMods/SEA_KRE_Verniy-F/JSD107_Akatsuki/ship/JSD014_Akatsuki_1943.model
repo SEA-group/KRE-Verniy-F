@@ -1,1 +1,9 @@
-<JSD014_Akatsuki_1943.model><exporter>1.6</exporter><parent>PnFMods/SEA_KRE_Verniy-F/JSD107_Akatsuki/ship/JSD014_Akatsuki_1943_Full_lod4</parent><extent>250.0000</extent><materialNames /><castsShadow>true</castsShadow><nodefullVisual>PnFMods/SEA_KRE_Verniy-F/JSD107_Akatsuki/ship/JSD014_Akatsuki_1943</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></JSD014_Akatsuki_1943.model>
+<JSD014_Akatsuki_1943.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_KRE_Verniy-F/JSD107_Akatsuki/ship/JSD014_Akatsuki_1943_Full_lod4	</parent>
+	<extent>	250.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_KRE_Verniy-F/JSD107_Akatsuki/ship/JSD014_Akatsuki_1943	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JSD014_Akatsuki_1943.model>

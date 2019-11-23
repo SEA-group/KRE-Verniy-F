@@ -1,1 +1,9 @@
-<JGT149_610mm3_Type_93_dead.model><exporter>1.6</exporter><parent>PnFMods/SEA_KRE_Verniy-F/RSD507_Leningrad_1944/gun/RGT078_533mm_4tubes_dead_lod1</parent><extent>3.000000</extent><materialNames /><castsShadow>true</castsShadow><nodefullVisual>PnFMods/SEA_KRE_Verniy-F/RSD507_Leningrad_1944/gun/RGT078_533mm_4tubes_dead</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></JGT149_610mm3_Type_93_dead.model>
+<JGT149_610mm3_Type_93_dead.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_KRE_Verniy-F/RSD507_Leningrad_1944/gun/RGT078_533mm_4tubes_dead_lod1	</parent>
+	<extent>	3.000000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_KRE_Verniy-F/RSD507_Leningrad_1944/gun/RGT078_533mm_4tubes_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGT149_610mm3_Type_93_dead.model>

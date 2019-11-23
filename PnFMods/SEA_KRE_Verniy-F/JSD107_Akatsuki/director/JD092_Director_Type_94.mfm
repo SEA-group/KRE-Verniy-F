@@ -1,0 +1,17 @@
+<JD092_Director_Type_94.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_KRE_Verniy-F/JSD107_Akatsuki/director/JD092_Director_Type_94_a.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_KRE_Verniy-F/JSD107_Akatsuki/director/default_ao.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_KRE_Verniy-F/JSD107_Akatsuki/director/JD092_Director_Type_94_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_KRE_Verniy-F/JSD107_Akatsuki/director/JD092_Director_Type_94_n.dds	</Texture>
+	</property>
+</JD092_Director_Type_94.mfm>
