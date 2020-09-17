@@ -1,6 +1,6 @@
 <JSD014_Akatsuki_1943_MidBack.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_KRE_Verniy-F/JSD107_Akatsuki/ship/JSD014_Akatsuki_1943_MidBack_lod1	</parent>
+	<parent>	PnFMods/SEA_KRE_Verniy-F/JSD107_Akatsuki/ship/lods/JSD014_Akatsuki_1943_MidBack_lod1	</parent>
 	<extent>	7.0000	</extent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>

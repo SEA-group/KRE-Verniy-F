@@ -1,9 +1,0 @@
-<RGT078_533mm_4tubes_dead_lod2.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_KRE_Verniy-F/RSD507_Leningrad_1944/gun/RGT078_533mm_4tubes_dead_lod3	</parent>
-	<extent>	20.0000	</extent>
-	<materialNames />
-	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_KRE_Verniy-F/RSD507_Leningrad_1944/gun/RGT078_533mm_4tubes_dead_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</RGT078_533mm_4tubes_dead_lod2.model>
