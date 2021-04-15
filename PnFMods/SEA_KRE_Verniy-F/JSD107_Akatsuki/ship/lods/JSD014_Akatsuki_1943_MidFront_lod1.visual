@@ -110,7 +110,7 @@
 			<primitive>	MidFront_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Verniy-F/JSD107_Akatsuki/ship/JSD014_Akatsuki_1943.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -138,7 +138,7 @@
 			<primitive>	MidFront_crack_Bow_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Verniy-F/JSD107_Akatsuki/ship/JSD014_Akatsuki_1943.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -152,7 +152,7 @@
 			<primitive>	MidFront_crack_Bow_in_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Verniy-F/JSD107_Akatsuki/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -180,7 +180,7 @@
 			<primitive>	MidFront_wire_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Verniy-F/JSD107_Akatsuki/ship/JSD014_Akatsuki_1943_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -194,7 +194,7 @@
 			<primitive>	MidFront_crack_MidBack_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Verniy-F/JSD107_Akatsuki/ship/JSD014_Akatsuki_1943.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -208,7 +208,7 @@
 			<primitive>	MidFront_crack_MidBack_in_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Verniy-F/JSD107_Akatsuki/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -222,7 +222,7 @@
 			<primitive>	MidFront_patch_MidBack_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Verniy-F/JSD107_Akatsuki/ship/JSD014_Akatsuki_1943.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -236,7 +236,7 @@
 			<primitive>	MidFront_patch_MidBack_wire_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Verniy-F/JSD107_Akatsuki/ship/JSD014_Akatsuki_1943_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>

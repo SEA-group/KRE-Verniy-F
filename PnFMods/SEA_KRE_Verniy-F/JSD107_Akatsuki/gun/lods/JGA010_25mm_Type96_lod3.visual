@@ -47,7 +47,7 @@
 			<primitive>	Turret_lodShape3.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Gun	</identifier>
+					<identifier>	SHIPMATX_PBS_Gun	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Verniy-F/JSD107_Akatsuki/gun/JGA010_25mm_Type96.mfm	</mfm>
 				</material>
 			</primitiveGroup>

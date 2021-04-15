@@ -140,7 +140,7 @@
 			<primitive>	Turret_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Gun	</identifier>
+					<identifier>	SHIPMATX_PBS_Gun	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Verniy-F/JSD209_Yugumo/gun/JGM151_127mm50_Type_C_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

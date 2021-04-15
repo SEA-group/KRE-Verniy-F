@@ -56,7 +56,7 @@
 			<primitive>	RGT078_533mm_4tubesShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Gun	</identifier>
+					<identifier>	SHIPMATX_PBS_Gun	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Verniy-F/RSD507_Leningrad_1944/gun/RGT078_533mm_4tubes.mfm	</mfm>
 				</material>
 			</primitiveGroup>
